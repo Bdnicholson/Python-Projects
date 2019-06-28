@@ -2,7 +2,7 @@ yearly_salary = input('What is your yearly salary? ') # Get the yearly salary
 
 monthly_salary = (float(yearly_salary) // 12 ) # Convert yearly to monthly
 
-print('This is your monthlu salary: ' , monthly_salary) # Print the conversion
+print('This is your monthly salary: ' , monthly_salary) # Print the conversion
 
 weekly_salary = (monthly_salary / 4)
 
