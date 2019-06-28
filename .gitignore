@@ -13,3 +13,4 @@ _pycache_
 #VS Code Files
 *.json
 *.vscode
+*.DS_Store
