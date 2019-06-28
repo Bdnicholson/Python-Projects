@@ -1,0 +1,1 @@
+This is a simple salary converter. It will convert your yearly salary to monthly, weekly, and hourly.
